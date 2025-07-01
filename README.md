@@ -15,8 +15,8 @@ To help a company entering the aviation sector make informed, data-driven decisi
 - Git & GitHub
 
 ## Files Included
-- 'cleaned_AviationData.csv' – Cleaned dataset
-- 'Untitled.ipynb' – Jupyter notebook with full analysis
+- `cleaned_AviationData.csv` – Cleaned dataset
+- `Untitled.ipynb` – Jupyter notebook with full analysis
 - Tableau Public Link – https://public.tableau.com/views/Aviation_17513554587720/SeverityFrequencyofAircraftIncidents?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Key Insights
